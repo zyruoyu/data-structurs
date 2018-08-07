@@ -1,0 +1,17 @@
+{
+  "name": "data-structurs",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "zyruoyu <1127431465@qq.com> (https://zyruoyu.github.io/qs_html5_lesson/)",
+  "license": "ISC",
+  "dependencies": {
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0",
+    "jest": "^23.4.2"
+  }
+}
